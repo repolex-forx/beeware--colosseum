@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/colosseum/commit/191d742dae03801da728d541b8f61c784ad98e26",
       "git:hexsha": "191d742dae03801da728d541b8f61c784ad98e26",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/beeware/colosseum/commit/69352f7f6db6844a74d0e358d120c30d66ee12bf",
